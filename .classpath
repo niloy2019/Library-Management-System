@@ -10,5 +10,17 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-annotations-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-catalina-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-coyote-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-el-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-jaspic-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-jni-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-jsp-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-juli-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-servlet-api-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-util-8.5.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/tomcat-util-scan-8.5.54.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
