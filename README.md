@@ -17,6 +17,8 @@
    elvesin Library and they can issue book upto 5 and They can easily return the Book .There is an Admin Login
    in this application . Admin of the Library can add new customer to the Library, can delete a Customer . 
    Admin can add new books, delete books or increase/decrease the quanity of existing books of the Library .
+   This is an JSP & Servlets Project. All the Database operation has been done with the help of JDBC. 
+   MySQL is used as the Database .
    
  
 ## How it works :
@@ -50,10 +52,8 @@
          
      --> "log out" butto is there to let the Admin Log out from the Account. All the action done by the Admin will be
          reflected to the Databse.
-     
-     --> All the Database operation has been done with the help of JDBC. 
-    
-     --> MySQL is used as the Database .
+
+
 
 ## Images of the Project
 
@@ -88,11 +88,9 @@
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/10.PNG)
 
 ## 11.Manager User Page 
-### (Admin can remove and add new user in this Page)
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/11.PNG)
 
 ## 12.Manage Books Page
-### (Admin can add new Books, delete the existing books , can increase/decrease the quantity of existing Books)
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/12.PNG)
 
 ## 13.Login Page (After Logging out as Admin)
