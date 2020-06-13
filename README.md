@@ -50,7 +50,10 @@
          
      --> "log out" butto is there to let the Admin Log out from the Account. All the action done by the Admin will be
          reflected to the Databse.
-
+     
+     --> All the Database operation has been done with the help of JDBC. 
+    
+     --> MySQL is used as the Database .
 
 ## Images of the Project
 
