@@ -22,8 +22,14 @@
 
 ## Login Page
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/1.PNG)
+
+## Register Page
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/2.PNG)
+
+## Login Page(Logging in as Customer)
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/3.PNG)
+
+## Customer Home Page
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/4.PNG)
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/5.PNG)
 ![](https://github.com/niloy2019/Library-Management-System/blob/master/Images%20of%20the%20Project/6.PNG)
